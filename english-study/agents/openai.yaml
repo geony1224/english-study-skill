@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Study"
+  short_description: "Adaptive English drills for Korean learners."
+  default_prompt: "Use $english-study to run a level test or adaptive English practice for a Korean learner."
